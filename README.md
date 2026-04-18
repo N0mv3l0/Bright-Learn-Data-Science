@@ -10,3 +10,5 @@ Overall, this assignment helped me build a strong foundation in data and AI conc
 
 ## 📄 Assignment
 [Download Assignment](./Research_Assignment_1_Foundation_of_data_and_artificial_intelligence_answers.pdf)
+
+> Note: If the preview does not load on GitHub, please download the file to view it.
