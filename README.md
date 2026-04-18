@@ -7,3 +7,6 @@ In addition, I was introduced to artificial intelligence and its application in 
 as well as to modern data tools such as Snowflake and Databricks.
 
 Overall, this assignment helped me build a strong foundation in data and AI concepts.
+
+## 📄 Assignment
+[Download Assignment](./Research_Assignment_1_Foundation_of_data_and_artificial_intelligence_answers.pdf)
