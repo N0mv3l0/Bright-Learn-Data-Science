@@ -9,6 +9,6 @@ as well as to modern data tools such as Snowflake and Databricks.
 Overall, this assignment helped me build a strong foundation in data and AI concepts.
 
 ## 📄 Assignment
-[Download Assignment](./Research_Assignment_1_Foundation_of_data_and_artificial_intelligence_answers.pdf)
+[Download Assignment](./Research_Assignment_1_Foundation_of_data_and_artificial_intelligence_answers_compressed.pdf)
 
 > Note: If the preview does not load on GitHub, please download the file to view it.
